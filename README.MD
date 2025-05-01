@@ -35,3 +35,8 @@ While functionally simple, this serves as:
 ```bash
 gcc server.c -o server
 ./server
+
+## Local Port Scan Result
+![Port Scanning Results](./img/open_ports.png)
+
+![Server Usage](./img/usage.png)
